@@ -1,0 +1,15 @@
+{
+  "name": "create-native-project-reset-package",
+  "version": "1.0.0",
+  "description": "A simple command-line tool that allows you to create a new React Native project and automatically reset it with a single command. Designed for ease of use, this package streamlines the setup process, saving you time and effort.",
+  "main": "index.js",
+  "bin": {
+    "create-native-project": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
