@@ -13,9 +13,9 @@ A simple command-line tool that allows you to create a new React Native project 
 You can use this package without installing it globally by using `npx`:
 
 
-npx create-native-project-reset-package <project-name>
+npx create-native-project-reset-package project-name
 
-Replace <project-name> with your desired project name.
+Replace project-name with your desired project name.
 
 ## Usage
 
